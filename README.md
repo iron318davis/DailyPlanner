@@ -12,5 +12,5 @@ Purpose is to provide a simple way to keep track of tasks during the current wor
 
 
 #Images of Daily Planner
-![](images/Planner1.png)
-![](images/Planner2.png)
+![](ImagesofPlanner/Planner1new.png)
+![](ImagesofPlanner/Planner2new.png)
