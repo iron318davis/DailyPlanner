@@ -15,3 +15,6 @@ Purpose is to provide a simple way to keep track of tasks during the current wor
 
 ![](ImagesofPlanner/Planner1new.png)
 ![](ImagesofPlanner/Planner2new.png)
+
+## Link to project
+https://iron318davis.github.io/DailyPlanner/
